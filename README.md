@@ -1,4 +1,4 @@
-# palestra-prototipo
+# Palestra Prototipação
 
 
 ## Link Figma
@@ -6,3 +6,5 @@ https://www.figma.com/proto/A4vnsFjxQVJvXIRSUPQoQJ/InfoUnesp?page-id=25%3A14&typ
 
 
 ## Embbed Github Pages
+
+https://vanderms.github.io/palestra-prototipo/
